@@ -1,5 +1,5 @@
 # Machine_Learning
 Team Deatils :
-Anurag Aribandi
-Syed Jamal 
-Rishabh Jain
+Anurag Aribandi,
+Syed Jamal,
+Rishabh Jain.
