@@ -13,7 +13,7 @@
 
 ### :key: Run the Code
 * Ensure that the dataset path and name match to the downloaded file and location.
-* All the models are python files or jupyter notebooks and are fairly straightforward to run
+* All the models are python files or notebooks and are straightforward to run
 * The output varies based on model, some models output graphs. The outputs are detailed in the reports.
   
 ### :books: Libraries Used
