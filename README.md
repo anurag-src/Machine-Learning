@@ -1,5 +1,4 @@
 # Machine Learning Models
-## Assignments BITS F464 ML
 
 ### :busts_in_silhouette: The Team
 * Rishabh Jain
